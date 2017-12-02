@@ -6,7 +6,7 @@
   - Impact
   - Implementation
 
-### What makes something awesome? Maybe human needs!?
+### What makes something awesome? Maybe our needs ...
 
 Based on friend Maslow we have the following:
 
